@@ -1,0 +1,307 @@
+{
+  "dashboard_scope": "Five selected IFRS S2 pilot requirements assessed using public TJX evidence.",
+  "scope_warning": "This is a pilot disclosure readiness assessment and is not an ISSB compliance score.",
+  "kpis": [
+    {
+      "KPI": "Requirements Assessed",
+      "Value": 5,
+      "Unit": "requirements"
+    },
+    {
+      "KPI": "Baseline Pilot Readiness",
+      "Value": 0.35,
+      "Unit": "percent"
+    },
+    {
+      "KPI": "Final Pilot Readiness",
+      "Value": 0.7,
+      "Unit": "percent"
+    },
+    {
+      "KPI": "Readiness Improvement",
+      "Value": 0.35,
+      "Unit": "percentage points"
+    },
+    {
+      "KPI": "Baseline Score",
+      "Value": 7,
+      "Unit": "out of 20"
+    },
+    {
+      "KPI": "Final Score",
+      "Value": 14,
+      "Unit": "out of 20"
+    },
+    {
+      "KPI": "Total Supporting Evidence",
+      "Value": 50,
+      "Unit": "evidence items"
+    },
+    {
+      "KPI": "Open Gaps",
+      "Value": 5,
+      "Unit": "gaps"
+    },
+    {
+      "KPI": "High Priority Gaps",
+      "Value": 3,
+      "Unit": "gaps"
+    },
+    {
+      "KPI": "Medium Priority Gaps",
+      "Value": 2,
+      "Unit": "gaps"
+    },
+    {
+      "KPI": "Mostly Covered Requirements",
+      "Value": 4,
+      "Unit": "requirements"
+    },
+    {
+      "KPI": "Partially Covered Requirements",
+      "Value": 1,
+      "Unit": "requirements"
+    },
+    {
+      "KPI": "Fully Covered Requirements",
+      "Value": 0,
+      "Unit": "requirements"
+    }
+  ],
+  "requirement_summary": [
+    {
+      "Requirement ID": "S2-GOV-02",
+      "Requirement Name": "Board oversight of climate-related risks and opportunities",
+      "Baseline Rating": "Partially Covered",
+      "Baseline Score": 2,
+      "Final Rating": "Mostly Covered",
+      "Final Score": 3,
+      "Score Change": 1,
+      "Readiness Percent": 0.75,
+      "Evidence Count": 11,
+      "GCR Evidence Count": 4,
+      "CDP Evidence Count": 7,
+      "Strong Evidence Count": 5,
+      "Moderate Evidence Count": 2,
+      "Weak Evidence Count": 0,
+      "Priority": "High",
+      "Effort": "Medium",
+      "Owner": "Sustainability / Corporate Governance",
+      "Status": "Open",
+      "Remaining Gap": "More explicit linkage between Board oversight and specific climate-related risks, opportunities, strategic decisions, and management responses; clearer description of how climate information informs Board decisions.",
+      "Recommended Action": "Provide a consolidated climate-governance disclosure describing Board and committee responsibilities, oversight frequency, information received from management, climate targets monitored, and examples of how climate-related risks and opportunities influence strategy and major decisions."
+    },
+    {
+      "Requirement ID": "S2-STR-06",
+      "Requirement Name": "Climate resilience and scenario analysis",
+      "Baseline Rating": "Weakly Covered",
+      "Baseline Score": 1,
+      "Final Rating": "Partially Covered",
+      "Final Score": 2,
+      "Score Change": 1,
+      "Readiness Percent": 0.5,
+      "Evidence Count": 11,
+      "GCR Evidence Count": 0,
+      "CDP Evidence Count": 11,
+      "Strong Evidence Count": 0,
+      "Moderate Evidence Count": 11,
+      "Weak Evidence Count": 0,
+      "Priority": "High",
+      "Effort": "High",
+      "Owner": "Sustainability / ERM / FP&A",
+      "Status": "Open",
+      "Remaining Gap": "Scenario analysis is primarily qualitative and appears focused on TJX UK rather than clearly demonstrating enterprise-wide global applicability. Quantitative financial impacts, operational sensitivities, detailed assumptions and uncertainties, and specific management responses are limited or not disclosed.",
+      "Recommended Action": "Expand scenario analysis to the global enterprise and quantify material financial and operational impacts under key transition and physical-risk scenarios. Disclose major assumptions, uncertainties, sensitivities, management responses, and implications for strategy and capital planning."
+    },
+    {
+      "Requirement ID": "S2-MT-01",
+      "Requirement Name": "Scope 1 greenhouse gas emissions",
+      "Baseline Rating": "Weakly Covered",
+      "Baseline Score": 1,
+      "Final Rating": "Mostly Covered",
+      "Final Score": 3,
+      "Score Change": 2,
+      "Readiness Percent": 0.75,
+      "Evidence Count": 4,
+      "GCR Evidence Count": 1,
+      "CDP Evidence Count": 3,
+      "Strong Evidence Count": 1,
+      "Moderate Evidence Count": 2,
+      "Weak Evidence Count": 0,
+      "Priority": "Medium",
+      "Effort": "Low",
+      "Owner": "Sustainability / Environmental Data",
+      "Status": "Open",
+      "Remaining Gap": "The organizational/consolidation boundary should be stated more explicitly and reconciled consistently across the reported global total and divisional breakdown. A minor 1 mtCO2e difference also exists between the divisional sum and reported global Scope 1 total.",
+      "Recommended Action": "Present Scope 1 emissions in a controlled disclosure table that explicitly states the organizational boundary, consolidation method, reporting period, methodology and emission-factor sources, and reconcile the global total to divisional values."
+    },
+    {
+      "Requirement ID": "S2-MT-02",
+      "Requirement Name": "Scope 2 greenhouse gas emissions",
+      "Baseline Rating": "Weakly Covered",
+      "Baseline Score": 1,
+      "Final Rating": "Mostly Covered",
+      "Final Score": 3,
+      "Score Change": 2,
+      "Readiness Percent": 0.75,
+      "Evidence Count": 7,
+      "GCR Evidence Count": 0,
+      "CDP Evidence Count": 7,
+      "Strong Evidence Count": 7,
+      "Moderate Evidence Count": 0,
+      "Weak Evidence Count": 0,
+      "Priority": "Medium",
+      "Effort": "Low",
+      "Owner": "Sustainability / Energy Management",
+      "Status": "Open",
+      "Remaining Gap": "Confirm that the organizational/consolidation boundary is explicitly and consistently described for Scope 2.",
+      "Recommended Action": "Add or cross-reference an explicit statement describing the organizational boundary and consolidation approach used for Scope 2 reporting."
+    },
+    {
+      "Requirement ID": "S2-MT-04",
+      "Requirement Name": "Climate targets",
+      "Baseline Rating": "Partially Covered",
+      "Baseline Score": 2,
+      "Final Rating": "Mostly Covered",
+      "Final Score": 3,
+      "Score Change": 1,
+      "Readiness Percent": 0.75,
+      "Evidence Count": 17,
+      "GCR Evidence Count": 6,
+      "CDP Evidence Count": 11,
+      "Strong Evidence Count": 5,
+      "Moderate Evidence Count": 6,
+      "Weak Evidence Count": 0,
+      "Priority": "High",
+      "Effort": "Medium",
+      "Owner": "Sustainability / Strategy",
+      "Status": "Open",
+      "Remaining Gap": "More specific interim milestone values/timing, clearer target-monitoring mechanics, and stronger detail on how targets are operationalized.",
+      "Recommended Action": "Consolidate targets into a structured target table showing baseline, boundary, target year, current progress, interim milestones, methodology, governance and status."
+    }
+  ],
+  "gap_priority_summary": [
+    {
+      "Category": "Priority",
+      "Level": "High",
+      "Gap Count": 3
+    },
+    {
+      "Category": "Priority",
+      "Level": "Medium",
+      "Gap Count": 2
+    },
+    {
+      "Category": "Effort",
+      "Level": "High",
+      "Gap Count": 1
+    },
+    {
+      "Category": "Effort",
+      "Level": "Medium",
+      "Gap Count": 2
+    },
+    {
+      "Category": "Effort",
+      "Level": "Low",
+      "Gap Count": 2
+    }
+  ],
+  "gap_action_plan": [
+    {
+      "gap_id": "GAP-001",
+      "requirement_id": "S2-GOV-02",
+      "requirement_name": "Board oversight of climate-related risks and opportunities",
+      "current_rating": "Mostly Covered",
+      "current_score": 3,
+      "gap_category": "Governance",
+      "gap_description": "More explicit linkage between Board oversight and specific climate-related risks, opportunities, strategic decisions, and management responses; clearer description of how climate information informs Board decisions.",
+      "information_needed": "Provide a consolidated climate-governance disclosure describing Board and committee responsibilities, oversight frequency, information received from management, climate targets monitored, and examples of how climate-related risks and opportunities influence strategy and major decisions.",
+      "likely_source": "Board committee charters, governance materials, climate governance documentation",
+      "recommended_action": "Provide a consolidated climate-governance disclosure describing Board and committee responsibilities, oversight frequency, information received from management, climate targets monitored, and examples of how climate-related risks and opportunities influence strategy and major decisions.",
+      "owner": "Sustainability / Corporate Governance",
+      "priority": "High",
+      "effort": "Medium",
+      "status": "Open",
+      "closure_check": "",
+      "expected_readiness_improvement": 1,
+      "reviewer_notes": ""
+    },
+    {
+      "gap_id": "GAP-002",
+      "requirement_id": "S2-STR-06",
+      "requirement_name": "Climate resilience and scenario analysis",
+      "current_rating": "Partially Covered",
+      "current_score": 2,
+      "gap_category": "Strategy / Scenario Analysis",
+      "gap_description": "Scenario analysis is primarily qualitative and appears focused on TJX UK rather than clearly demonstrating enterprise-wide global applicability. Quantitative financial impacts, operational sensitivities, detailed assumptions and uncertainties, and specific management responses are limited or not disclosed.",
+      "information_needed": "Expand scenario analysis to the global enterprise and quantify material financial and operational impacts under key transition and physical-risk scenarios. Disclose major assumptions, uncertainties, sensitivities, management responses, and implications for strategy and capital planning.",
+      "likely_source": "Climate risk analysis, ERM, scenario modelling, FP&A and strategy documentation",
+      "recommended_action": "Expand scenario analysis to the global enterprise and quantify material financial and operational impacts under key transition and physical-risk scenarios. Disclose major assumptions, uncertainties, sensitivities, management responses, and implications for strategy and capital planning.",
+      "owner": "Sustainability / ERM / FP&A",
+      "priority": "High",
+      "effort": "High",
+      "status": "Open",
+      "closure_check": "",
+      "expected_readiness_improvement": 2,
+      "reviewer_notes": ""
+    },
+    {
+      "gap_id": "GAP-003",
+      "requirement_id": "S2-MT-01",
+      "requirement_name": "Scope 1 greenhouse gas emissions",
+      "current_rating": "Mostly Covered",
+      "current_score": 3,
+      "gap_category": "Metrics / Scope 1",
+      "gap_description": "The organizational/consolidation boundary should be stated more explicitly and reconciled consistently across the reported global total and divisional breakdown. A minor 1 mtCO2e difference also exists between the divisional sum and reported global Scope 1 total.",
+      "information_needed": "Present Scope 1 emissions in a controlled disclosure table that explicitly states the organizational boundary, consolidation method, reporting period, methodology and emission-factor sources, and reconcile the global total to divisional values.",
+      "likely_source": "GHG inventory, emissions methodology, organizational boundary documentation",
+      "recommended_action": "Present Scope 1 emissions in a controlled disclosure table that explicitly states the organizational boundary, consolidation method, reporting period, methodology and emission-factor sources, and reconcile the global total to divisional values.",
+      "owner": "Sustainability / Environmental Data",
+      "priority": "Medium",
+      "effort": "Low",
+      "status": "Open",
+      "closure_check": "",
+      "expected_readiness_improvement": 1,
+      "reviewer_notes": ""
+    },
+    {
+      "gap_id": "GAP-004",
+      "requirement_id": "S2-MT-02",
+      "requirement_name": "Scope 2 greenhouse gas emissions",
+      "current_rating": "Mostly Covered",
+      "current_score": 3,
+      "gap_category": "Metrics / Scope 2",
+      "gap_description": "Confirm that the organizational/consolidation boundary is explicitly and consistently described for Scope 2.",
+      "information_needed": "Add or cross-reference an explicit statement describing the organizational boundary and consolidation approach used for Scope 2 reporting.",
+      "likely_source": "GHG inventory, utility data, renewable energy records, Scope 2 methodology",
+      "recommended_action": "Add or cross-reference an explicit statement describing the organizational boundary and consolidation approach used for Scope 2 reporting.",
+      "owner": "Sustainability / Energy Management",
+      "priority": "Medium",
+      "effort": "Low",
+      "status": "Open",
+      "closure_check": "",
+      "expected_readiness_improvement": 1,
+      "reviewer_notes": ""
+    },
+    {
+      "gap_id": "GAP-005",
+      "requirement_id": "S2-MT-04",
+      "requirement_name": "Climate targets",
+      "current_rating": "Mostly Covered",
+      "current_score": 3,
+      "gap_category": "Targets",
+      "gap_description": "More specific interim milestone values/timing, clearer target-monitoring mechanics, and stronger detail on how targets are operationalized.",
+      "information_needed": "Consolidate targets into a structured target table showing baseline, boundary, target year, current progress, interim milestones, methodology, governance and status.",
+      "likely_source": "Climate target roadmap, transition planning, target governance documentation",
+      "recommended_action": "Consolidate targets into a structured target table showing baseline, boundary, target year, current progress, interim milestones, methodology, governance and status.",
+      "owner": "Sustainability / Strategy",
+      "priority": "High",
+      "effort": "Medium",
+      "status": "Open",
+      "closure_check": "",
+      "expected_readiness_improvement": 1,
+      "reviewer_notes": ""
+    }
+  ]
+}

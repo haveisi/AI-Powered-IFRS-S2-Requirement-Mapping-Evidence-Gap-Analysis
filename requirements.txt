@@ -1,0 +1,12 @@
+pandas
+openpyxl
+pydantic
+python-dotenv
+pymupdf
+pdfplumber
+camelot-py
+tabula-py
+anthropic
+tenacity
+tqdm
+pytest

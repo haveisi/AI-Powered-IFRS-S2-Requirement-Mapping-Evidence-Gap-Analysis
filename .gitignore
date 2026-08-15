@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Source documents
+02_Source_Documents/
+
+# Generated / local data
+03_Extracted_Text/
+04_Vector_Indexes/
+05_Evidence_Register/
+storage/
+logs/
+
+# Temporary files
+*.log
+*.tmp
+~$*.xlsx
+~$*.csv
+# Development utilities
+list_models.py
+test_claude_connection.py
